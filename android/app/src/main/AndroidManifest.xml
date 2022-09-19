@@ -5,7 +5,7 @@
         android:name="${applicationName}"
         android:icon="@mipmap/launcher_icon">
                 <meta-data android:name="com.google.android.geo.API_KEY"
-               android:value="AIzaSyAewObC4AwKmUWUzedixKm9C4912Wqj9uI"/>
+               android:value=""/>
         <activity
 
             android:name=".MainActivity"
